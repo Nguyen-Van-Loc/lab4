@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656289549134",
+    "project_id": "work-management-applicat-61302",
+    "storage_bucket": "work-management-applicat-61302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656289549134:android:3cb3d9fc174cad373dac1f",
+        "android_client_info": {
+          "package_name": "com.example.lab4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdZn0pk2slGucT2JgkKSNX1X6Hwx0Q5a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
